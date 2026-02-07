@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">FirstLab</string>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Alexandr Tarasov</string>
+    <string name="group">Group: B23–191–2</string>
+    <string name="contact_email">tarasov999saniock@gmail.com</string>
+    <string name="contact_telegram">Telegram: @qwatr1xx</string>
+    <string name="contact_phone">+7 (965) 595–26–06</string>
 </resources>
